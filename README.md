@@ -15,6 +15,14 @@ Using RNA-seq datasets from public gene expression repositories, the study:
 
 The result: a set of candidate genes, pathways, and drug targets explaining how SARS-CoV-2 infection compounds the complexity of IPF.
 
+## Analysis snapshots
+
+From the DESeq2 differential-expression analysis — the volcano plot of differentially expressed genes and the PCA plot showing how samples group by condition:
+
+![Volcano plot of differentially expressed genes](assets/mlbioige_volcano_plot.png)
+
+![PCA plot of samples by condition](assets/mlbioige_pca_plot.png)
+
 ## Published paper
 
 > Sk. Tanzir Mehedi, Kawsar Ahmed, Francis M. Bui, Musfikur Rahaman, Imran Hossain, Tareq Mahmud Tonmoy, Rakibul Alam Limon, Sobhy M. Ibrahim, Mohammad Ali Moni. "MLBioIGE: Integration and interplay of machine learning and bioinformatics to identify the genetic effect of SARS-CoV-2 on idiopathic pulmonary fibrosis patients." *Biology Methods and Protocols*, 2022.
